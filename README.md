@@ -28,3 +28,13 @@ The dataset is saved in `./data/urls.json` in the following format:
 
 This dataset includes all the keywords used to extract tweets from Twitter using its streaming and search APIs.
 The dataset `./data/keywords.json` is divided into three sets that corresponds to the three tweet datasets (DataVac, DataCov, DataHC) mentioned in the paper above.
+
+The dataset format is as follows:
+
+```json
+{
+    "DataVac": [...],
+    "DataCov": [...],
+    "DataHC": [...]
+}
+```
