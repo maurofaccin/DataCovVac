@@ -13,7 +13,7 @@ If you use this in your project, please add a reference to the above article.
 
 ### Tweet IDs
 
-The file `data/tids.txt.gz` contains the list of tweets and retweets IDs used in the above publication.
+The file `data/tids.XX.txt.gz` contains the list of tweets and retweets IDs used in the above publication, splitted in chunks of 2M IDs.
 
 ### Vaccine-critical and News media URLs
 
