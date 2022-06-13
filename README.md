@@ -56,6 +56,8 @@ YYYY-MM-DD-users.csv.gz
 
 Users may be repeated on different days.
 
+**WARNING**: script are provided as is, and they require user intervention in order to update paths and possibly other data.
+
 ### Plotting
 
 In the `plots` folder one can find the python script used to reproduce the plots of the above paper.
