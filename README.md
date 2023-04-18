@@ -45,7 +45,7 @@ The dataset format is as follows:
 
 ## Codes
 
-In the `code` folder we provide a number of python scripts that extract the data needed to plot.
+In the `covvac-code` folder we provide a number of python scripts that extract the data needed to plot.
 The code requires that the tweets (once hydrated) will be separated in daily chunks of:
 
 ```
@@ -60,4 +60,4 @@ Users may be repeated on different days.
 
 ### Plotting
 
-In the `plots` folder one can find the python script used to reproduce the plots of the above paper.
+In the `covvac-plots` folder one can find the python script used to reproduce the plots of the above paper.
