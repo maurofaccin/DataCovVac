@@ -4,7 +4,7 @@ In this repository we provide dataset used and produced in:
 
 > **Assessing the influence of French vaccine critics during the two first years of the COVID-19 pandemic**
 > *Faccin, Gargiulo, Atlani-Duault and Ward*
-> [arxiv:2202.10952](http://arxiv.org/abs/2202.10952), (2022)
+> [PLOS ONE, 17(8) p.1-19 (2022)](https://doi.org/10.1371/journal.pone.0271157).
 
 The cited article contains a detailed description of the datasets' construction processes.
 If you use this in your project, please add a reference to the above article.
