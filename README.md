@@ -11,6 +11,12 @@ In this repository we provide dataset used and produced in:
 The cited article contains a detailed description of the datasets' construction processes.
 If you use this in your project, please add a reference to the above article.
 
+You may refere to this dataset as:
+
+> `maurofaccin/DataCovVac`
+> Mauro Faccin
+> [Zenodo, (2023)](https://zenodo.org/record/7870120)
+
 ## Datasets
 
 ### Tweet IDs
