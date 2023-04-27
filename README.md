@@ -1,5 +1,7 @@
 # Vaccine-critical and news media URLs
 
+[![DOI](https://zenodo.org/badge/498278444.svg)](https://zenodo.org/badge/latestdoi/498278444)
+
 In this repository we provide dataset used and produced in:
 
 > **Assessing the influence of French vaccine critics during the two first years of the COVID-19 pandemic**
